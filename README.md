@@ -1,2 +1,1 @@
-# prueba-node
-Prueba para el curso de NodeJS
+Aplicación de gestión de tareas en JSON
